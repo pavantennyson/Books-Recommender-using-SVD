@@ -1,5 +1,6 @@
 # Collaborative Filtering Recommender system
 
+## I recommend using [Jupyter Nbviewer](https://nbviewer.jupyter.org/) to view this notebook as Plots aren't rendering in Github
 
 ## Introduction
 
