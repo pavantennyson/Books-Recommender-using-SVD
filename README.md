@@ -1,6 +1,6 @@
 # Collaborative Filtering Recommender system
 
-## I recommend using [Jupyter Nbviewer](https://nbviewer.jupyter.org/) to view this notebook as Plots aren't rendering in Github
+## I recommend using [Jupyter Nbviewer](https://nbviewer.jupyter.org/github/pavantennyson/Books-Recommender-using-SVD/blob/master/Recommender%20System%20using%20SVD.ipynb) to view this notebook as Plots aren't rendering in Github
 
 ## Introduction
 
